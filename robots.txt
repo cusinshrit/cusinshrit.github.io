@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cusinshrit.github.io/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/app/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/assets/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/css/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/data/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/includes/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/item/sitemap.cusinshrit.gz
+Sitemap: https://cusinshrit.github.io/src/sitemap.cusinshrit.gz
